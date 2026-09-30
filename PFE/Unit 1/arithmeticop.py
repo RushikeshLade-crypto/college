@@ -13,4 +13,4 @@ elif(c=='/'):
     else:
         print(a/b)
 else:
-    print("Invalid operator")
+    print("Invalid operator. Run program again")
