@@ -8,6 +8,9 @@ elif(c=='-'):
 elif(c=='*'):
     print(a*b)
 elif(c=='/'):
-    print(a/b)
+    if(b==0):
+        print("division by zero not possible")
+    else:
+        print(a/b)
 else:
     print("Invalid operator")
