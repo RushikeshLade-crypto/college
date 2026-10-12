@@ -1,4 +1,5 @@
 # program to find maximum of three numbers
+#method 1 using the logical and operator
 n1 = int(input("Enter first number: "))
 n2 = int(input("Enter second number: "))
 n3 = int(input("Enter third number: "))
