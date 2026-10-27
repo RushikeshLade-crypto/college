@@ -1,3 +1,4 @@
+#program to display first n numbers
 print("only range n")
 for i in range(5):
     print(i)
